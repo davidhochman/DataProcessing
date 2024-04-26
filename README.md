@@ -8,7 +8,7 @@
 
 3. Navigate to the `src` directory containing the Java files.
 
-4. Run the `InMemoryDatabase.java` file which contains the provided main method.
+4. Run the `storage.java` file which contains the provided main method.
    
 5. Modify the main method to do additional testing if necesary.
 
